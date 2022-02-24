@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Miraculous proof of the resurrection, or, The Life to come demonstrated being a strange but true relation of what hapned to Mris Anna Atherton, who lay in a trance 7 days ... with her speech ... verbatim as it came from her brother Dr. Atherton, physician in Caermarthen / published, now seasonably, as an invitation to an holy life in maidens, in this adulterous and atheistical generation ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50982</idno>
+            <idno type="STC">Wing M2216A</idno>
+            <idno type="STC">ESTC R43456</idno>
+            <idno type="EEBO-CITATION">27652999</idno>
+            <idno type="OCLC">ocm 27652999</idno>
+            <idno type="VID">110161</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50982)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110161)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1729:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Miraculous proof of the resurrection, or, The Life to come demonstrated being a strange but true relation of what hapned to Mris Anna Atherton, who lay in a trance 7 days ... with her speech ... verbatim as it came from her brother Dr. Atherton, physician in Caermarthen / published, now seasonably, as an invitation to an holy life in maidens, in this adulterous and atheistical generation ...</title>
+               </titleStmt>
+               <extent>2 leaves : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Dawks ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Atherton, Anna, ca. 1655-ca. 1671.</term>
+               <term>Visions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:110161:1"/>
+            <head>A Miraculous PROOF of the Reſurrection: OR, The LIFE to come Demonſtrated.</head>
+            <head type="sub">Being a Strange but True Relation of what hapned to M<hi rend="sup">ris</hi> 
+               <hi>Anna Atherton</hi>:</head>
+            <p>Who lay in a Trance 7 days, and had burning Coals applyed to her feet, but no life appeared: and liv'd comfortably 2 years after: with her Speech to her Mother when ſhe came to life, <hi>verbatim,</hi> as it came from her Brother D<hi rend="sup">r</hi>. <hi>Ather<g ref="char:EOLhyphen"/>ton,</hi> Phyſician in <hi>Caermarthen.</hi>
+            </p>
+            <p>Publiſhed, now ſeaſonably, as an Invitation to an Holy Life in Maidens, in this Adulterous, and Atheiſtical Generation, wherein neither God, Christ, Soul, Heaven nor Hell are min<g ref="char:EOLhyphen"/>ded; but drinking, whoring, ſwaring, lying, &amp;c. to be a Curb to Vice, &amp; incourage Vertue.</p>
+            <figure>
+               <p>M<hi rend="sup">ris</hi> 
+                  <hi>Anna Atherton.</hi>
+               </p>
+            </figure>
+            <list>
+               <item>THIS Maid being about fourteen years of Age, fell ſick in <hi>November</hi> 1669. Whereupon ſeveral Phyſicians were called to her Aſſiſtance, who conſulted about her Diſtem<g ref="char:EOLhyphen"/>per; and judg'd it to be ſomthing of an Ague, though the Symptoms thereof (as they confeſſed) were ſome<g ref="char:EOLhyphen"/>what different from thoſe which are uſual in that Di<g ref="char:EOLhyphen"/>ſtemper.</item>
+               <item>2. Her Diſeaſe, whatever it was, prov'd too hard for their Skill and Medicines, and brought the Patient to a thinneſs of Body, paleneſs of Countenance, and Stupid<g ref="char:EOLhyphen"/>neſs to any thing but her Devotion. She was before of a full Habit of Body, of a brisk and lively Temper, and prone to all kind of Exerciſe befitting her Age.</item>
+               <item>3. Under this ſtrong Alteration ſhe continued till the Beginning of <hi>February</hi> enſuing, when by little and little ſhe felt a ſenſible Decay of her whole Body, which daily increaſing, prevailed at length upon all the Organs of Life and Mo<g ref="char:EOLhyphen"/>tion; ſo that in appearance ſhe lay void of either, whereupon ſhe was concluded to be really dead.</item>
+               <item>4. The Women who came to do their laſt Office to her Body, perceived more Heat and Warmth in her, than they thought to be uſual in dead Bodies, upon which they deſiſted a while; And, becauſe the Room was cloſe, and a fire had been alwayes in it, (thinking the unuſual Warmth might proceed from thence) they opened the Caſements to let in what Air they could, and put out the Fire, and then left her ſome time to her ſelf.</item>
+               <item>5. But returning, they found the ſame Warmth to continue; then they left her in this manner one whole day, yet could find no alteration: whereupon they applyed a Looking-glaſs to her Mouth, but not the leaſt Cloud appear'd: they put live Coals to her feet, which diſcovered not the leaſt ſign of Life or Senſe.</item>
+               <item>6. Notwithſtanding her Mother (it being ſo ordered by Providence) was very timorous, which made her delay her Burial, and kept her uncoffin'd till ſev'n days were expired, at the end of which time, her heat which before was ſo lan<g ref="char:EOLhyphen"/>guid and obſcure, that it could ſcarcely be diſcerned, began (like ſome ſparks of fire raked up in Embers) to glow, and more manifeſtly diſcover it ſelf.</item>
+               <item>7. Upon which, Rubbings and other artificial Helps were uſed, which did not prove ineffectual; for, in a ſhort time, they found a trembling Vibration of the Pulſe, afterwards ſhe began to breath, and ſo at laſt gradually recovered all her Senſes. The firſt thing that ſhe ſpake of, was That ſhe deſired to ſee her Mo<g ref="char:EOLhyphen"/>ther, who coming to her, ſhe thus uttered her mind:</item>
+            </list>
+            <pb facs="tcp:110161:1" rendition="simple:additions"/>
+            <figure>
+               <p>A Looking glaſs applyd to her mouth, &amp; coals to her feet. Comes to herſelf, Sees an Angel, &amp; calls for her Mother</p>
+            </figure>
+            <div type="speech">
+               <head>The Maids Speech when ſhe came out of her Trance.</head>
+               <list>
+                  <item>8. O Mother! Since I was abſent from you, I have been in Heaven, an An<g ref="char:EOLhyphen"/>gel went before me to conduct me thither; I paſſed through three ſeve<g ref="char:EOLhyphen"/>ral Gates, and at length I came to Heaven Gate, where I ſaw things very glorious and unutterable, as Saints, Angels, and the like, in glorious Apparel; and heard Unparalleld Muſick, Divine Anthems and Hallelu-jahs.</item>
+                  <item>9. I would fain have entred that glorious place, but the Angel, that went before me, withſtood me, yet I thought myſelf half in: but he told me, I could not be admitted now, but I muſt go back, and take leave of my Friends, and after ſome ſhort time, I ſhould be admitted.</item>
+                  <item>10. So he brought me hither again, and is now ſtanding at the Beds-ſeet; Mother! You muſt needs ſee him, he is all in white. Her Mother told her, It was but a Dream or Fancy, and that ſhe knew not what ſhe ſaid: whereupon ſhe anſwered with a great deal of Vehemency, That it was as true, as that ſhe was there at preſent: She took notice alſo of ſeveral perſons in the Room by their Names, to ſhew ſhe did not dream, but ſpoke with Underſtanding.</item>
+                  <item>11. But for the greater Confirmation, ſhe told them of Three or Four Perſons that were dead, ſince ſhe was deprived of her Senſes, and named each Perſon; (one of them was dead, and they knew not of it before they ſent to enquire:) ſhe ſaid, ſhe ſaw them paſſing by her while ſhe ſtood at the Gate.</item>
+                  <item>12. One whom ſhe named was reputed a Vicious Perſon, came as far as the Gate, but was ſent back again another way. All the Perſons ſhe named, dyed in the time ſhe lay in this Trance.</item>
+                  <item>13. She lived about two Years after this, enjoying a perfect Health, and then dyed in great Aſſurance of her Salvation; ſpeaking comfortable Words, and giv<g ref="char:EOLhyphen"/>ing wholeſom Inſtructions to all who came to viſit her. It is worthy Obſervation, that during the whole time of her firſt Sickneſs, which was about a quarter of a yer, ſhe neither eat nor drank any thing, beſides the juyce of an Orange and the yolk of an Egge.</item>
+               </list>
+               <p>'Tis then neceſſary all Perſons be kept 48 hours before burial, leſt they ſhould be buried alive.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_note">
+            <p>
+               <hi>London,</hi> Printed by <hi>T. Dawks</hi> in <hi>Black-fryers,</hi> who was as deſirous to be ſatisfied in the truth of this Relation as any Reader can be, and was ſo before he did dare to publiſh it. <hi>&amp;c. Reader,</hi> be pleaſed to be advertiſed that from the ſaid <hi>T. Dawks</hi> may be had (1) the Pictures of the 3 prime Diſcoverers, <hi>Ores, Bedloe</hi> and <hi>Dug<g ref="char:EOLhyphen"/>dale,</hi> with Verſes declaring their Reaſons for diſcovering this damnable Popiſh PLOT: (2)<hi>Godfreys</hi> Mur<g ref="char:EOLhyphen"/>der made Viſible, in a large ſheet, with a Copper plate, in colors or plain, being an Ornament for all P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ote<g ref="char:EOLhyphen"/>ſtant Families. (3) A Chronology of the Growth of <hi>Popery,</hi> ſhewing when, and who brough Superſtition in. (4) The Riſe, Diſcovery and Demonſtration of the PLOT in 52 Copper Figures, with a Book to ex<g ref="char:EOLhyphen"/>plain them. (5) Alſo <hi>Salmon's</hi> Univerſal Diſpenſatory a Companion not only for the chiefeſt Phyſicians of <hi>Europe,</hi> but for the moſt ingenuous Ladies and Gentlewomen, furniſhing them with the Nature &amp; Virtues of Roots, Herbs, Plants, Flowers; the Phyſical uſe of Inſects, Animals &amp; their parts; Preſerved, diſti<g ref="char:EOLhyphen"/>lations; &amp;c. (6) His <hi>Horae Mathematicae,</hi> being a new Method of Calculating Nativities, Brief and Admi<g ref="char:EOLhyphen"/>rable for Verity; which certainly will become, when known, the practicableſt Book on that Subject in the whole Univerſe (6) His <hi>Synop. Medicinae,</hi> with 21 Copper plates will certainly be puliſhed, this <hi>Trini<g ref="char:EOLhyphen"/>ty</hi>-Term 1680. Theſe things have oft been inquir'd for, and ſent for into moſt Counties, but are de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v'd by ill humord men, as if there were no ſuch Books, when they may always be had there for C<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>p<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>.</p>
+            <p>Reader, <hi>Beware of a Cheat, for This true Original Relation, from the Doctor, the M<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> brother is <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ridiculouſly counterfeited in a little <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> penny Book: be not abuſed with that which <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Propriety.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
